@@ -5,7 +5,7 @@ name: Jumbomob
 description: Source for technology and knowledge sharing.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/jumbomob/jumbomob.github.io/blob/master/images/jumbomob.png
+avatar: https://raw.githubusercontent.com/jumbomob/jumbomob.github.io/master/images/jumbomob.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
